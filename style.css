@@ -1,18 +1,46 @@
-
+#firstparagraph {
+background-color: blue;
+color: white
+}
 .box {
   width: 100px;
   height: 100px;
   display: inline-block;
 }
 
-#one {
-  background-color: red;
+#secondparagraph { 
+  Font-family: cursive;
 }
-
 #two {
   background-color: blue;
 }
 
 #three {
   background-color: green;
+}
+body{
+  background-image:url("https://pbs.twimg.com/media/CdCLAAsWoAEEP16.jpg");
+}
+#fourthparagraph {
+text-align: right; 
+}
+.even{
+
+  background-color:  #891464
+  }
+  
+.even
+{ background-color: #891464 
+} 
+.even
+{
+  background-color: #891464
+}
+.even
+{
+  background-color: #891464
+}
+.even
+{
+  background-color: #891464
 }
